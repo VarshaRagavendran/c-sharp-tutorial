@@ -1,0 +1,11 @@
+/Users/Varsha/Projects/SimpleMethod/SimpleMethod/bin/Debug/netcoreapp2.0/SimpleMethod.deps.json
+/Users/Varsha/Projects/SimpleMethod/SimpleMethod/bin/Debug/netcoreapp2.0/SimpleMethod.runtimeconfig.json
+/Users/Varsha/Projects/SimpleMethod/SimpleMethod/bin/Debug/netcoreapp2.0/SimpleMethod.runtimeconfig.dev.json
+/Users/Varsha/Projects/SimpleMethod/SimpleMethod/bin/Debug/netcoreapp2.0/SimpleMethod.dll
+/Users/Varsha/Projects/SimpleMethod/SimpleMethod/bin/Debug/netcoreapp2.0/SimpleMethod.pdb
+/Users/Varsha/Projects/SimpleMethod/SimpleMethod/obj/Debug/netcoreapp2.0/SimpleMethod.csprojResolveAssemblyReference.cache
+/Users/Varsha/Projects/SimpleMethod/SimpleMethod/obj/Debug/netcoreapp2.0/SimpleMethod.csproj.CoreCompileInputs.cache
+/Users/Varsha/Projects/SimpleMethod/SimpleMethod/obj/Debug/netcoreapp2.0/SimpleMethod.AssemblyInfoInputs.cache
+/Users/Varsha/Projects/SimpleMethod/SimpleMethod/obj/Debug/netcoreapp2.0/SimpleMethod.AssemblyInfo.cs
+/Users/Varsha/Projects/SimpleMethod/SimpleMethod/obj/Debug/netcoreapp2.0/SimpleMethod.dll
+/Users/Varsha/Projects/SimpleMethod/SimpleMethod/obj/Debug/netcoreapp2.0/SimpleMethod.pdb

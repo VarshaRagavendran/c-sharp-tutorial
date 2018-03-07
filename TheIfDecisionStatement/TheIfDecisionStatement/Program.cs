@@ -8,25 +8,8 @@ namespace TheIfDecisionStatement
         {
             Console.Write("Choose a door: 1, 2, or 3:");
             string userValue = Console.ReadLine();
-            string returnMessage;
-
-            if (userValue == "1")
-            {
-                returnMessage = "Door chosen : 1";
-            }
-            else if (userValue == "2")
-            {
-                returnMessage = "Door chosen : 2";
-            }
-            else if (userValue == "3")
-            {
-                returnMessage = "Door chosen : 3";
-            }
-            else
-            {
-                returnMessage = "Invalid Door chosen!";
-            }
-            Console.WriteLine(returnMessage);
+            string returnMessage = (userValue == "1") ? "car!" : "strand of lint";
+            Console.Write("You entered : {0}, therefore you won a {1}.", userValue, returnMessage);
         }
     }
 }

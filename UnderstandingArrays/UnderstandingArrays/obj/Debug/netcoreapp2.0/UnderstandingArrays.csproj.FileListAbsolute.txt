@@ -1,0 +1,11 @@
+/Users/Varsha/Projects/UnderstandingArrays/UnderstandingArrays/bin/Debug/netcoreapp2.0/UnderstandingArrays.deps.json
+/Users/Varsha/Projects/UnderstandingArrays/UnderstandingArrays/bin/Debug/netcoreapp2.0/UnderstandingArrays.runtimeconfig.json
+/Users/Varsha/Projects/UnderstandingArrays/UnderstandingArrays/bin/Debug/netcoreapp2.0/UnderstandingArrays.runtimeconfig.dev.json
+/Users/Varsha/Projects/UnderstandingArrays/UnderstandingArrays/bin/Debug/netcoreapp2.0/UnderstandingArrays.dll
+/Users/Varsha/Projects/UnderstandingArrays/UnderstandingArrays/bin/Debug/netcoreapp2.0/UnderstandingArrays.pdb
+/Users/Varsha/Projects/UnderstandingArrays/UnderstandingArrays/obj/Debug/netcoreapp2.0/UnderstandingArrays.csprojResolveAssemblyReference.cache
+/Users/Varsha/Projects/UnderstandingArrays/UnderstandingArrays/obj/Debug/netcoreapp2.0/UnderstandingArrays.csproj.CoreCompileInputs.cache
+/Users/Varsha/Projects/UnderstandingArrays/UnderstandingArrays/obj/Debug/netcoreapp2.0/UnderstandingArrays.AssemblyInfoInputs.cache
+/Users/Varsha/Projects/UnderstandingArrays/UnderstandingArrays/obj/Debug/netcoreapp2.0/UnderstandingArrays.AssemblyInfo.cs
+/Users/Varsha/Projects/UnderstandingArrays/UnderstandingArrays/obj/Debug/netcoreapp2.0/UnderstandingArrays.dll
+/Users/Varsha/Projects/UnderstandingArrays/UnderstandingArrays/obj/Debug/netcoreapp2.0/UnderstandingArrays.pdb

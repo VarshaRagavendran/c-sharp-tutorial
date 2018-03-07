@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{F81C842F-0AF3-4128-8E2C-64451F4058DE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnderstandingArrays/Program.cs">
+    <Files>
+      <File FileName="UnderstandingArrays/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../ForIteration/ForIteration/Program.cs" line="11" offsetX="421" offsetY="136" expression="i == 8" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.UnderstandingArrays PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+</Properties>

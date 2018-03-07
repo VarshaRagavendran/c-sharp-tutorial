@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{7B8C8419-1CE3-4BF5-B4F4-7E02A7BC698D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TheIfDecisionStatement/Program.cs">
+    <Files>
+      <File FileName="TheIfDecisionStatement/Program.cs" Line="9" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.TheIfDecisionStatement PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/Varsha/Projects/TheIfDecisionStatement/TheIfDecisionStatement/bin/Debug/netcoreapp2.0/TheIfDecisionStatement.deps.json
+/Users/Varsha/Projects/TheIfDecisionStatement/TheIfDecisionStatement/bin/Debug/netcoreapp2.0/TheIfDecisionStatement.runtimeconfig.json
+/Users/Varsha/Projects/TheIfDecisionStatement/TheIfDecisionStatement/bin/Debug/netcoreapp2.0/TheIfDecisionStatement.runtimeconfig.dev.json
+/Users/Varsha/Projects/TheIfDecisionStatement/TheIfDecisionStatement/bin/Debug/netcoreapp2.0/TheIfDecisionStatement.dll
+/Users/Varsha/Projects/TheIfDecisionStatement/TheIfDecisionStatement/bin/Debug/netcoreapp2.0/TheIfDecisionStatement.pdb
+/Users/Varsha/Projects/TheIfDecisionStatement/TheIfDecisionStatement/obj/Debug/netcoreapp2.0/TheIfDecisionStatement.csprojResolveAssemblyReference.cache
+/Users/Varsha/Projects/TheIfDecisionStatement/TheIfDecisionStatement/obj/Debug/netcoreapp2.0/TheIfDecisionStatement.csproj.CoreCompileInputs.cache
+/Users/Varsha/Projects/TheIfDecisionStatement/TheIfDecisionStatement/obj/Debug/netcoreapp2.0/TheIfDecisionStatement.AssemblyInfoInputs.cache
+/Users/Varsha/Projects/TheIfDecisionStatement/TheIfDecisionStatement/obj/Debug/netcoreapp2.0/TheIfDecisionStatement.AssemblyInfo.cs
+/Users/Varsha/Projects/TheIfDecisionStatement/TheIfDecisionStatement/obj/Debug/netcoreapp2.0/TheIfDecisionStatement.dll
+/Users/Varsha/Projects/TheIfDecisionStatement/TheIfDecisionStatement/obj/Debug/netcoreapp2.0/TheIfDecisionStatement.pdb

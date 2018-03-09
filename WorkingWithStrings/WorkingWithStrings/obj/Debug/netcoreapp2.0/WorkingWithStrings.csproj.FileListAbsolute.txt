@@ -1,0 +1,11 @@
+/Users/Varsha/Projects/WorkingWithStrings/WorkingWithStrings/bin/Debug/netcoreapp2.0/WorkingWithStrings.deps.json
+/Users/Varsha/Projects/WorkingWithStrings/WorkingWithStrings/bin/Debug/netcoreapp2.0/WorkingWithStrings.runtimeconfig.json
+/Users/Varsha/Projects/WorkingWithStrings/WorkingWithStrings/bin/Debug/netcoreapp2.0/WorkingWithStrings.runtimeconfig.dev.json
+/Users/Varsha/Projects/WorkingWithStrings/WorkingWithStrings/bin/Debug/netcoreapp2.0/WorkingWithStrings.dll
+/Users/Varsha/Projects/WorkingWithStrings/WorkingWithStrings/bin/Debug/netcoreapp2.0/WorkingWithStrings.pdb
+/Users/Varsha/Projects/WorkingWithStrings/WorkingWithStrings/obj/Debug/netcoreapp2.0/WorkingWithStrings.csprojResolveAssemblyReference.cache
+/Users/Varsha/Projects/WorkingWithStrings/WorkingWithStrings/obj/Debug/netcoreapp2.0/WorkingWithStrings.csproj.CoreCompileInputs.cache
+/Users/Varsha/Projects/WorkingWithStrings/WorkingWithStrings/obj/Debug/netcoreapp2.0/WorkingWithStrings.AssemblyInfoInputs.cache
+/Users/Varsha/Projects/WorkingWithStrings/WorkingWithStrings/obj/Debug/netcoreapp2.0/WorkingWithStrings.AssemblyInfo.cs
+/Users/Varsha/Projects/WorkingWithStrings/WorkingWithStrings/obj/Debug/netcoreapp2.0/WorkingWithStrings.dll
+/Users/Varsha/Projects/WorkingWithStrings/WorkingWithStrings/obj/Debug/netcoreapp2.0/WorkingWithStrings.pdb

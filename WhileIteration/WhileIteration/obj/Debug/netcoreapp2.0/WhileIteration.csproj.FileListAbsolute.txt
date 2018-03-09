@@ -1,0 +1,11 @@
+/Users/Varsha/Projects/WhileIteration/WhileIteration/bin/Debug/netcoreapp2.0/WhileIteration.deps.json
+/Users/Varsha/Projects/WhileIteration/WhileIteration/bin/Debug/netcoreapp2.0/WhileIteration.runtimeconfig.json
+/Users/Varsha/Projects/WhileIteration/WhileIteration/bin/Debug/netcoreapp2.0/WhileIteration.runtimeconfig.dev.json
+/Users/Varsha/Projects/WhileIteration/WhileIteration/bin/Debug/netcoreapp2.0/WhileIteration.dll
+/Users/Varsha/Projects/WhileIteration/WhileIteration/bin/Debug/netcoreapp2.0/WhileIteration.pdb
+/Users/Varsha/Projects/WhileIteration/WhileIteration/obj/Debug/netcoreapp2.0/WhileIteration.csprojResolveAssemblyReference.cache
+/Users/Varsha/Projects/WhileIteration/WhileIteration/obj/Debug/netcoreapp2.0/WhileIteration.csproj.CoreCompileInputs.cache
+/Users/Varsha/Projects/WhileIteration/WhileIteration/obj/Debug/netcoreapp2.0/WhileIteration.AssemblyInfoInputs.cache
+/Users/Varsha/Projects/WhileIteration/WhileIteration/obj/Debug/netcoreapp2.0/WhileIteration.AssemblyInfo.cs
+/Users/Varsha/Projects/WhileIteration/WhileIteration/obj/Debug/netcoreapp2.0/WhileIteration.dll
+/Users/Varsha/Projects/WhileIteration/WhileIteration/obj/Debug/netcoreapp2.0/WhileIteration.pdb

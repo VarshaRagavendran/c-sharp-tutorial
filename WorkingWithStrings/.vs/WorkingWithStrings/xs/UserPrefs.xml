@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{2ACF2BF5-BB9D-4C69-A575-B56DFA13AAA3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WorkingWithStrings/Program.cs">
+    <Files>
+      <File FileName="WorkingWithStrings/Program.cs" Line="17" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WorkingWithStrings PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../ForIteration/ForIteration/Program.cs" line="11" offsetX="421" offsetY="136" expression="i == 8" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/Varsha/Projects/SimpleClasses/SimpleClasses/bin/Debug/netcoreapp2.0/SimpleClasses.deps.json
+/Users/Varsha/Projects/SimpleClasses/SimpleClasses/bin/Debug/netcoreapp2.0/SimpleClasses.runtimeconfig.json
+/Users/Varsha/Projects/SimpleClasses/SimpleClasses/bin/Debug/netcoreapp2.0/SimpleClasses.runtimeconfig.dev.json
+/Users/Varsha/Projects/SimpleClasses/SimpleClasses/bin/Debug/netcoreapp2.0/SimpleClasses.dll
+/Users/Varsha/Projects/SimpleClasses/SimpleClasses/bin/Debug/netcoreapp2.0/SimpleClasses.pdb
+/Users/Varsha/Projects/SimpleClasses/SimpleClasses/obj/Debug/netcoreapp2.0/SimpleClasses.csprojResolveAssemblyReference.cache
+/Users/Varsha/Projects/SimpleClasses/SimpleClasses/obj/Debug/netcoreapp2.0/SimpleClasses.csproj.CoreCompileInputs.cache
+/Users/Varsha/Projects/SimpleClasses/SimpleClasses/obj/Debug/netcoreapp2.0/SimpleClasses.AssemblyInfoInputs.cache
+/Users/Varsha/Projects/SimpleClasses/SimpleClasses/obj/Debug/netcoreapp2.0/SimpleClasses.AssemblyInfo.cs
+/Users/Varsha/Projects/SimpleClasses/SimpleClasses/obj/Debug/netcoreapp2.0/SimpleClasses.dll
+/Users/Varsha/Projects/SimpleClasses/SimpleClasses/obj/Debug/netcoreapp2.0/SimpleClasses.pdb

@@ -1,0 +1,11 @@
+/Users/Varsha/Projects/DatesAndTimes/DatesAndTimes/bin/Debug/netcoreapp2.0/DatesAndTimes.deps.json
+/Users/Varsha/Projects/DatesAndTimes/DatesAndTimes/bin/Debug/netcoreapp2.0/DatesAndTimes.runtimeconfig.json
+/Users/Varsha/Projects/DatesAndTimes/DatesAndTimes/bin/Debug/netcoreapp2.0/DatesAndTimes.runtimeconfig.dev.json
+/Users/Varsha/Projects/DatesAndTimes/DatesAndTimes/bin/Debug/netcoreapp2.0/DatesAndTimes.dll
+/Users/Varsha/Projects/DatesAndTimes/DatesAndTimes/bin/Debug/netcoreapp2.0/DatesAndTimes.pdb
+/Users/Varsha/Projects/DatesAndTimes/DatesAndTimes/obj/Debug/netcoreapp2.0/DatesAndTimes.csprojResolveAssemblyReference.cache
+/Users/Varsha/Projects/DatesAndTimes/DatesAndTimes/obj/Debug/netcoreapp2.0/DatesAndTimes.csproj.CoreCompileInputs.cache
+/Users/Varsha/Projects/DatesAndTimes/DatesAndTimes/obj/Debug/netcoreapp2.0/DatesAndTimes.AssemblyInfoInputs.cache
+/Users/Varsha/Projects/DatesAndTimes/DatesAndTimes/obj/Debug/netcoreapp2.0/DatesAndTimes.AssemblyInfo.cs
+/Users/Varsha/Projects/DatesAndTimes/DatesAndTimes/obj/Debug/netcoreapp2.0/DatesAndTimes.dll
+/Users/Varsha/Projects/DatesAndTimes/DatesAndTimes/obj/Debug/netcoreapp2.0/DatesAndTimes.pdb

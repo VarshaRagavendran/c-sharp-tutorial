@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{2CF6A5BC-031D-4AC8-92BC-DE5B065338E7}|Default">
+  <MonoDevelop.Ide.ItemProperties.SimpleClasses PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleClasses/Program.cs">
+    <Files>
+      <File FileName="SimpleClasses/Program.cs" Line="18" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../ForIteration/ForIteration/Program.cs" line="11" offsetX="421" offsetY="136" expression="i == 8" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+</Properties>

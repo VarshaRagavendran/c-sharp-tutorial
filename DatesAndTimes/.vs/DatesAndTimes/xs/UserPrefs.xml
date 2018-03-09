@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{F68E2B64-CF20-4A07-A76B-5B3C5CF560FB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DatesAndTimes/Program.cs">
+    <Files>
+      <File FileName="DatesAndTimes/Program.cs" Line="20" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../ForIteration/ForIteration/Program.cs" line="11" offsetX="421" offsetY="136" expression="i == 8" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DatesAndTimes PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

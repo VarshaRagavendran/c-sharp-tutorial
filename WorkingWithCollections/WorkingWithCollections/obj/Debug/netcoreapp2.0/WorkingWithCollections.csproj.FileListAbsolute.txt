@@ -1,0 +1,11 @@
+/Users/Varsha/Projects/WorkingWithCollections/WorkingWithCollections/bin/Debug/netcoreapp2.0/WorkingWithCollections.deps.json
+/Users/Varsha/Projects/WorkingWithCollections/WorkingWithCollections/bin/Debug/netcoreapp2.0/WorkingWithCollections.runtimeconfig.json
+/Users/Varsha/Projects/WorkingWithCollections/WorkingWithCollections/bin/Debug/netcoreapp2.0/WorkingWithCollections.runtimeconfig.dev.json
+/Users/Varsha/Projects/WorkingWithCollections/WorkingWithCollections/bin/Debug/netcoreapp2.0/WorkingWithCollections.dll
+/Users/Varsha/Projects/WorkingWithCollections/WorkingWithCollections/bin/Debug/netcoreapp2.0/WorkingWithCollections.pdb
+/Users/Varsha/Projects/WorkingWithCollections/WorkingWithCollections/obj/Debug/netcoreapp2.0/WorkingWithCollections.csprojResolveAssemblyReference.cache
+/Users/Varsha/Projects/WorkingWithCollections/WorkingWithCollections/obj/Debug/netcoreapp2.0/WorkingWithCollections.csproj.CoreCompileInputs.cache
+/Users/Varsha/Projects/WorkingWithCollections/WorkingWithCollections/obj/Debug/netcoreapp2.0/WorkingWithCollections.AssemblyInfoInputs.cache
+/Users/Varsha/Projects/WorkingWithCollections/WorkingWithCollections/obj/Debug/netcoreapp2.0/WorkingWithCollections.AssemblyInfo.cs
+/Users/Varsha/Projects/WorkingWithCollections/WorkingWithCollections/obj/Debug/netcoreapp2.0/WorkingWithCollections.dll
+/Users/Varsha/Projects/WorkingWithCollections/WorkingWithCollections/obj/Debug/netcoreapp2.0/WorkingWithCollections.pdb

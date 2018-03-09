@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{DA19E110-2994-4EB2-8979-283521C869C3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ScrapeClient/Program.cs">
+    <Files>
+      <File FileName="ScrapeLibrary/Class1.cs" Line="1" Column="1" />
+      <File FileName="ScrapeClient/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../ForIteration/ForIteration/Program.cs" line="11" offsetX="421" offsetY="136" expression="i == 8" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ScrapeClient PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ScrapeLibrary FirstBuild="True" />
+</Properties>

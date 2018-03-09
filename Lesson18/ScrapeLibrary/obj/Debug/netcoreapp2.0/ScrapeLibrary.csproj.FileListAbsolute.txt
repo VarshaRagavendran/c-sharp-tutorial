@@ -1,0 +1,8 @@
+/Users/Varsha/Projects/Lesson18/ScrapeLibrary/bin/Debug/netcoreapp2.0/ScrapeLibrary.deps.json
+/Users/Varsha/Projects/Lesson18/ScrapeLibrary/bin/Debug/netcoreapp2.0/ScrapeLibrary.dll
+/Users/Varsha/Projects/Lesson18/ScrapeLibrary/bin/Debug/netcoreapp2.0/ScrapeLibrary.pdb
+/Users/Varsha/Projects/Lesson18/ScrapeLibrary/obj/Debug/netcoreapp2.0/ScrapeLibrary.csproj.CoreCompileInputs.cache
+/Users/Varsha/Projects/Lesson18/ScrapeLibrary/obj/Debug/netcoreapp2.0/ScrapeLibrary.AssemblyInfoInputs.cache
+/Users/Varsha/Projects/Lesson18/ScrapeLibrary/obj/Debug/netcoreapp2.0/ScrapeLibrary.AssemblyInfo.cs
+/Users/Varsha/Projects/Lesson18/ScrapeLibrary/obj/Debug/netcoreapp2.0/ScrapeLibrary.dll
+/Users/Varsha/Projects/Lesson18/ScrapeLibrary/obj/Debug/netcoreapp2.0/ScrapeLibrary.pdb

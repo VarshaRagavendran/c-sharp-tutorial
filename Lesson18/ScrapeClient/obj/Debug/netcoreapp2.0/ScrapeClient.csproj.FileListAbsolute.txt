@@ -1,0 +1,13 @@
+/Users/Varsha/Projects/Lesson18/ScrapeClient/bin/Debug/netcoreapp2.0/ScrapeClient.deps.json
+/Users/Varsha/Projects/Lesson18/ScrapeClient/bin/Debug/netcoreapp2.0/ScrapeClient.runtimeconfig.json
+/Users/Varsha/Projects/Lesson18/ScrapeClient/bin/Debug/netcoreapp2.0/ScrapeClient.runtimeconfig.dev.json
+/Users/Varsha/Projects/Lesson18/ScrapeClient/bin/Debug/netcoreapp2.0/ScrapeClient.dll
+/Users/Varsha/Projects/Lesson18/ScrapeClient/bin/Debug/netcoreapp2.0/ScrapeClient.pdb
+/Users/Varsha/Projects/Lesson18/ScrapeClient/obj/Debug/netcoreapp2.0/ScrapeClient.csprojResolveAssemblyReference.cache
+/Users/Varsha/Projects/Lesson18/ScrapeClient/obj/Debug/netcoreapp2.0/ScrapeClient.csproj.CoreCompileInputs.cache
+/Users/Varsha/Projects/Lesson18/ScrapeClient/obj/Debug/netcoreapp2.0/ScrapeClient.AssemblyInfoInputs.cache
+/Users/Varsha/Projects/Lesson18/ScrapeClient/obj/Debug/netcoreapp2.0/ScrapeClient.AssemblyInfo.cs
+/Users/Varsha/Projects/Lesson18/ScrapeClient/obj/Debug/netcoreapp2.0/ScrapeClient.dll
+/Users/Varsha/Projects/Lesson18/ScrapeClient/obj/Debug/netcoreapp2.0/ScrapeClient.pdb
+/Users/Varsha/Projects/Lesson18/ScrapeClient/bin/Debug/netcoreapp2.0/ScrapeLibrary.dll
+/Users/Varsha/Projects/Lesson18/ScrapeClient/bin/Debug/netcoreapp2.0/ScrapeLibrary.pdb

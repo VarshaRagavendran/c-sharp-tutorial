@@ -1,0 +1,11 @@
+/Users/Varsha/Projects/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/netcoreapp2.0/EnumsAndSwitch.csprojResolveAssemblyReference.cache
+/Users/Varsha/Projects/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/netcoreapp2.0/EnumsAndSwitch.csproj.CoreCompileInputs.cache
+/Users/Varsha/Projects/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/netcoreapp2.0/EnumsAndSwitch.AssemblyInfoInputs.cache
+/Users/Varsha/Projects/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/netcoreapp2.0/EnumsAndSwitch.AssemblyInfo.cs
+/Users/Varsha/Projects/EnumsAndSwitch/EnumsAndSwitch/bin/Debug/netcoreapp2.0/EnumsAndSwitch.deps.json
+/Users/Varsha/Projects/EnumsAndSwitch/EnumsAndSwitch/bin/Debug/netcoreapp2.0/EnumsAndSwitch.runtimeconfig.json
+/Users/Varsha/Projects/EnumsAndSwitch/EnumsAndSwitch/bin/Debug/netcoreapp2.0/EnumsAndSwitch.runtimeconfig.dev.json
+/Users/Varsha/Projects/EnumsAndSwitch/EnumsAndSwitch/bin/Debug/netcoreapp2.0/EnumsAndSwitch.dll
+/Users/Varsha/Projects/EnumsAndSwitch/EnumsAndSwitch/bin/Debug/netcoreapp2.0/EnumsAndSwitch.pdb
+/Users/Varsha/Projects/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/netcoreapp2.0/EnumsAndSwitch.dll
+/Users/Varsha/Projects/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/netcoreapp2.0/EnumsAndSwitch.pdb

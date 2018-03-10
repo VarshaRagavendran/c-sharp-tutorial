@@ -1,0 +1,11 @@
+/Users/Varsha/Projects/UnderstandingLINQ/UnderstandingLINQ/bin/Debug/netcoreapp2.0/UnderstandingLINQ.deps.json
+/Users/Varsha/Projects/UnderstandingLINQ/UnderstandingLINQ/bin/Debug/netcoreapp2.0/UnderstandingLINQ.runtimeconfig.json
+/Users/Varsha/Projects/UnderstandingLINQ/UnderstandingLINQ/bin/Debug/netcoreapp2.0/UnderstandingLINQ.runtimeconfig.dev.json
+/Users/Varsha/Projects/UnderstandingLINQ/UnderstandingLINQ/bin/Debug/netcoreapp2.0/UnderstandingLINQ.dll
+/Users/Varsha/Projects/UnderstandingLINQ/UnderstandingLINQ/bin/Debug/netcoreapp2.0/UnderstandingLINQ.pdb
+/Users/Varsha/Projects/UnderstandingLINQ/UnderstandingLINQ/obj/Debug/netcoreapp2.0/UnderstandingLINQ.csprojResolveAssemblyReference.cache
+/Users/Varsha/Projects/UnderstandingLINQ/UnderstandingLINQ/obj/Debug/netcoreapp2.0/UnderstandingLINQ.csproj.CoreCompileInputs.cache
+/Users/Varsha/Projects/UnderstandingLINQ/UnderstandingLINQ/obj/Debug/netcoreapp2.0/UnderstandingLINQ.AssemblyInfoInputs.cache
+/Users/Varsha/Projects/UnderstandingLINQ/UnderstandingLINQ/obj/Debug/netcoreapp2.0/UnderstandingLINQ.AssemblyInfo.cs
+/Users/Varsha/Projects/UnderstandingLINQ/UnderstandingLINQ/obj/Debug/netcoreapp2.0/UnderstandingLINQ.dll
+/Users/Varsha/Projects/UnderstandingLINQ/UnderstandingLINQ/obj/Debug/netcoreapp2.0/UnderstandingLINQ.pdb

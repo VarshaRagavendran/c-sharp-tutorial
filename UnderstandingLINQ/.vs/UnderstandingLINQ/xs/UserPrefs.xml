@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{F75CAA65-6B59-4B6A-AD32-873E60194E0F}|Default">
+  <MonoDevelop.Ide.ItemProperties.UnderstandingLINQ PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnderstandingLINQ/Program.cs">
+    <Files>
+      <File FileName="UnderstandingLINQ/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

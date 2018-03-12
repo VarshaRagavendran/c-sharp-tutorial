@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{AC0C5EB7-6D15-44E9-ABC8-3CC6AC70980F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Timer/Program.cs">
+    <Files>
+      <File FileName="Timer/Program.cs" Line="27" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Timer PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/Varsha/Projects/Timer/Timer/obj/Debug/netcoreapp2.0/Timer.csprojResolveAssemblyReference.cache
+/Users/Varsha/Projects/Timer/Timer/obj/Debug/netcoreapp2.0/Timer.csproj.CoreCompileInputs.cache
+/Users/Varsha/Projects/Timer/Timer/obj/Debug/netcoreapp2.0/Timer.AssemblyInfoInputs.cache
+/Users/Varsha/Projects/Timer/Timer/obj/Debug/netcoreapp2.0/Timer.AssemblyInfo.cs
+/Users/Varsha/Projects/Timer/Timer/bin/Debug/netcoreapp2.0/Timer.deps.json
+/Users/Varsha/Projects/Timer/Timer/bin/Debug/netcoreapp2.0/Timer.runtimeconfig.json
+/Users/Varsha/Projects/Timer/Timer/bin/Debug/netcoreapp2.0/Timer.runtimeconfig.dev.json
+/Users/Varsha/Projects/Timer/Timer/bin/Debug/netcoreapp2.0/Timer.dll
+/Users/Varsha/Projects/Timer/Timer/bin/Debug/netcoreapp2.0/Timer.pdb
+/Users/Varsha/Projects/Timer/Timer/obj/Debug/netcoreapp2.0/Timer.dll
+/Users/Varsha/Projects/Timer/Timer/obj/Debug/netcoreapp2.0/Timer.pdb

@@ -1,0 +1,11 @@
+/Users/Varsha/Projects/Phoneword_iOS/Phoneword_iOS/bin/iPhoneSimulator/Debug/Phoneword_iOS.exe
+/Users/Varsha/Projects/Phoneword_iOS/Phoneword_iOS/bin/iPhoneSimulator/Debug/Phoneword_iOS.pdb
+/Users/Varsha/Projects/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/Phoneword_iOS.csproj.CoreCompileInputs.cache
+/Users/Varsha/Projects/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/Phoneword_iOS.exe
+/Users/Varsha/Projects/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/Phoneword_iOS.pdb
+/Users/Varsha/Projects/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/Varsha/Projects/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_PartialAppManifest.items
+/Users/Varsha/Projects/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/Varsha/Projects/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/coremlc/_PartialAppManifest.items
+/Users/Varsha/Projects/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/coremlc/_BundleResourceWithLogicalName.items
+/Users/Varsha/Projects/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/

@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timer", "Timer\Timer.csproj", "{AC0C5EB7-6D15-44E9-ABC8-3CC6AC70980F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC0C5EB7-6D15-44E9-ABC8-3CC6AC70980F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC0C5EB7-6D15-44E9-ABC8-3CC6AC70980F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC0C5EB7-6D15-44E9-ABC8-3CC6AC70980F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC0C5EB7-6D15-44E9-ABC8-3CC6AC70980F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
